@@ -4,7 +4,7 @@ Fecha: 12/08/2020
 Nota: Para evitar conflictos entre los diferentes sistema operativos, no se usan
 acentos ni caracteres especiales a lo largo de este script
 "
-
+"Un comentario"
 #++++++++++++++++++++++++++++++#
 # Lenguaje orientado a objetos #
 #++++++++++++++++++++++++++++++#
